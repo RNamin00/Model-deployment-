@@ -140,6 +140,4 @@ widgetsnbextension==3.5.2
 xgboost==1.5.2
 zipp==3.10.0
 zope.interface==5.4.0
-pyzmq==22.3.0
-pywin32==303
-pywinpty==1.1.6
+
